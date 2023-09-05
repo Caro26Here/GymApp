@@ -23,7 +23,7 @@ public class Client {
     
     public Client(String name, int ID, int age, float height, float weight, String goal) {
         this.name = name;
-        this.id = id;
+        this.id = ID;
         this.age = age;
         this.height = height;
         this.weight = weight;
